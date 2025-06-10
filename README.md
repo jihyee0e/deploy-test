@@ -13,4 +13,6 @@ GitHub Actions를 이용한 정적 웹사이트 자동 배포 실습
 
 ### 결과
 - 배포 주소: [https://jihyee0e.github.io/deploy-test/](https://jihyee0e.github.io/deploy-test/)
-  
+- 배포 화면:
+
+  ![result](https://github.com/jihyee0e/deploy-test/issues/1#issue-3132118930)
